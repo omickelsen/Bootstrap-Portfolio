@@ -58,9 +58,9 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #fff;
-    background: #fff;
-    border-bottom: 2px solid #ccc;
+    color: #c52222;
+    background: #ca15155e;
+    border-bottom: 2px solid #503636;
     
   }
   
@@ -75,9 +75,10 @@ body {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #232f2fbf;
   }
   
+ 
   nav {
     float: right;
     margin-top: 25px;
@@ -93,10 +94,9 @@ body {
     border-left: 1px solid #efefef;
   }
   
-  nav a:first-child {
-    border-left: 0 none;
-  }
+
   
+
   /* footer */
   
   footer {
@@ -107,7 +107,7 @@ body {
     color: #ccc;
     text-align: center;
     background: #666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #1f0b0b ;
     height: 50px;
   }
   
@@ -131,7 +131,7 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #fff;
+    background: #9c9c9cbf;
     border: 1px solid #ddd;
   }
   
@@ -168,7 +168,7 @@ body {
     line-height: 30px;
     color: #fff;
     text-align: center;
-    background: #4aaaa5;
+    background: #581616ad;
     border-bottom: 0;
   }
   
@@ -216,12 +216,10 @@ body {
     font-size: 18px;
     color: #fff;
     cursor: pointer;
-    background: #4aaaa5;
+    background: #302828;
     border: 0 none;
   }
-  .navbar navbar-dark bg-dark li {
-    color: white;
-  }
+  
 
   
 @media screen and (max-width: 768px) {
